@@ -1,5 +1,5 @@
 ## Table of Contents
 
 - [[Home]]
-- [[Contribution_Guide]]
+- [[Contribution Guide]]
 - [[Testing]]
