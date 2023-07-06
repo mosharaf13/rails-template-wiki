@@ -41,6 +41,8 @@ rails app:template LOCATION=https://raw.githubusercontent.com/nimblehq/rails-tem
 # To apply on an api application
 rails app:template LOCATION=https://raw.githubusercontent.com/nimblehq/rails-templates/main/template.rb API=true
 
+
+
 # To apply a specific addon
 rails app:template LOCATION=https://raw.githubusercontent.com/nimblehq/rails-templates/main/template.rb ADDON=<addon name>
 ```
