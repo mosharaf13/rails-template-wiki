@@ -7,7 +7,6 @@ on:
     branches:
       - develop
 env:
-  USER_TOKEN: ${{ secrets.GH_TOKEN }}
   USER_EMAIL: ${{ secrets.GH_EMAIL }}
 jobs:
   publish:
