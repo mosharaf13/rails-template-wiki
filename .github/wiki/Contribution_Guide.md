@@ -45,6 +45,7 @@ There are 2 template file types:
     This file is used for templating the whole new file.
     In case if we want to create a new file that Rails has not generated.
 
+
 2. **`.rb` files**
 
     This is used for modifying the files that Rails has generated.
