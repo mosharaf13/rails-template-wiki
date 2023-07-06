@@ -15,4 +15,5 @@ jobs:
       USER_NAME: github-wiki-workflow
     secrets:
       USER_TOKEN: ${{ secrets.GH_TOKEN }}
+      USER_EMAIL: ${{ secrets.GH_EMAIL }}
       
