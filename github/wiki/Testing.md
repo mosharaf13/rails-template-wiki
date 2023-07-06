@@ -9,6 +9,6 @@ To run [RuboCop](https://github.com/rubocop/rubocop) against the template:
 Any RuboCop command options can be passed:
 
 ```sh
-# Run RuboCop with auto correct
+# Run Ru`boCop with auto correct
 .template/bin/rubocop -a
 ```
