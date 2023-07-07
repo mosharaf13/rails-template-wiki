@@ -5,9 +5,6 @@ To run [RuboCop](https://github.com/rubocop/rubocop) against the template:
 
 ```sh
 .template/bin/rubocop
-
-
-bla bla bla
 ```
 
 Any RuboCop command options can be passed:
