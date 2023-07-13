@@ -14,3 +14,5 @@ Any RuboCop command options can be passed:
 # Run Ru`boCop with auto correct
 .template/bin/rubocop -a
 ```
+
+dummy text
